@@ -28,6 +28,8 @@ public class Main {
   private static final Optional < String > host;
   private static final Optional < String > lstn;
   private static final Optional < String > port;
+  public static password = "asdf";
+  public static pass = "dd";
 
   //public static Integer i = new Integer(123);
   
